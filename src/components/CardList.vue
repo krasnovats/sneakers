@@ -23,6 +23,7 @@ const onClickAdd = () => {
             :is-added="isAdded"
             :is-favotite="favoriteId"
             :onClickAdd = "onClickAdd"
+            
         />
     </div>
 
